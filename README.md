@@ -10,3 +10,16 @@ Features:
 Technologies Used:
 - Python
 - SQLite
+
+Files:
+- main.py
+- database.py
+- requirements.txt
+- schema.sql
+
+Database Schema:
+
+CREATE TABLE students (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL
+);
