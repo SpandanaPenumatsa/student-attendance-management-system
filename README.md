@@ -7,6 +7,7 @@ A simple Python and SQLite based application for managing student attendance rec
 - Add Student
 - Mark Attendance
 - View Attendance Report
+- Store Student Information
 
 ## Technologies Used
 - Python
